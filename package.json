@@ -1,0 +1,13 @@
+{
+  "name": "vanity-eth-js",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^3.0.3",
+    "ethers": "^5.0.31"
+  }
+}
