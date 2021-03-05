@@ -10,7 +10,7 @@ However, what's slightly different about this generator from others is that othe
 
 # Usage
 
-It's pretty barebones and not user friendly. Edit the source file `src/main.js` and set the prefix or any other criteria you want. It can take upwards of 10 minutes or so to match a prefix like `0xdead`.
+It's pretty barebones and not user friendly. Edit the source file `src/main.js` and set the prefix or any other criteria you want. It can take upwards of 10 minutes or so to match a prefix like `0xdead`. Run with `yarn start`.
 
 # Contributions
 
