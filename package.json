@@ -8,6 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "bip39": "^3.0.3",
-    "ethers": "^5.0.31"
+    "ethers": "^5.0.31",
+    "yargs": "^16.2.0"
   }
 }
